@@ -1,0 +1,12 @@
+$font-s: 12px;
+$font-m: 14px;
+$font-l: 24px;
+
+@mixin title-font {
+  font-size: 36px;
+}
+
+@mixin subtle-font {
+  font-size: $font-m;
+  color: $dark-grey;
+}

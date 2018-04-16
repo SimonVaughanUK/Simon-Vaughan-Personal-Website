@@ -1,0 +1,9 @@
+@import "styles/imports";
+
+.Content {
+  .main-col {
+    background-color: white;
+    box-shadow: 0px 0px 2px $grey;
+    overflow: hidden; // stop margin collapse
+  }
+}

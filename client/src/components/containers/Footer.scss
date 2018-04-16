@@ -1,0 +1,7 @@
+@import "styles/imports";
+
+.Footer {
+  @include subtle-font;
+  padding-top: $spacing-s;
+  padding-bottom: $spacing-m;
+}

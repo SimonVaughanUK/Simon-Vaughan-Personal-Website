@@ -1,0 +1,19 @@
+@import "styles/imports";
+
+.Header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+
+  background-color: $primary-color;
+  height: 64px;
+  color: white;
+  @include title-font;
+
+  .main-col {
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+}
