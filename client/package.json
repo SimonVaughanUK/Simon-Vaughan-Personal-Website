@@ -2,11 +2,11 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SimonVaughanUK.github.io",
+  "homepage": "http://SimonVaughanUK.github.io/simon-vaughan-personal-website",
   "repository": {
     "type": "git",
     "url":
-      "https://github.com/SimonVaughanUK/Simon-Vaughan-Personal-Website.git"
+      "https://github.com/SimonVaughanUK/simon-vaughan-personal-website.git"
   },
   "dependencies": {
     "react": "^16.3.2",
